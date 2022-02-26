@@ -1,20 +1,9 @@
 {
-  "name": "TestNFT2",
-  "symbol": "TNFT",
+  "name": "Cool NFT",
+  "symbol": "CDES",
   "uri": "https://arweave.net/8xUI1vgpgmhXn4aWlfWWCLmVSlT3HpZ5MB5Snvrd8zU",
   "seller_fee_basis_points": 200,
   "creators": [
-    {
-      "address": "AVdBTNhDqYgXGaaVkqiaUJ1Yqa61hMiFFaVRtqwzs5GZ",
-      "verified": false,
-      "share": 25
-    },
-    {
-      "address": "42NevAWA6A8m9prDvZRUYReQmhNC3NtSZQNFUppPJDRB",
-      "verified": false,
-      "share": 25
-    },
-
     {
       "address": "ACiA7bWTtaq3EorzzVrgS7k2gC5nofKYRs2myxcUn2Qt",
       "verified": false,
