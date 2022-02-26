@@ -1,0 +1,24 @@
+{
+  "name": "Number #0001",
+  "symbol": "NB",
+  "uri": "https://arweave.net/N36gZYJ6PEH8OE11i0MppIbPG4VXKV4iuQw1zaq3rls",
+  "description": "test cool metabssss.",
+  "seller_fee_basis_points": 500,
+
+  "attributes": [
+    { "trait_type": "Layer-1", "value": "0" },
+    { "trait_type": "Layer-2", "value": "0" },
+    { "trait_type": "Layer-3", "value": "0" },
+    { "trait_type": "Layer-4", "value": "1" }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "ACiA7bWTtaq3EorzzVrgS7k2gC5nofKYRs2myxcUn2Qt",
+        "share": 100
+      }
+    ],
+    "files": [{ "uri": "0.png", "type": "image/png" }]
+  },
+  "collection": { "name": "numbers", "family": "numbers" }
+}
